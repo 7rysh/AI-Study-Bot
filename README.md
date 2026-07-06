@@ -1,3 +1,14 @@
+---
+title: AI Study Bot
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: docker
+sdk_version: "1.0"
+app_port: 7860
+pinned: false
+---
+
 # 📚 Study Bot — PDF-Based RAG Study Assistant
 
 A retrieval-augmented generation (RAG) system that lets you upload a PDF and ask questions about it — answers are grounded in your document's content, not hallucinated by the model.
